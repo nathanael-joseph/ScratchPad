@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ScratchPad.BuilderDesignPattern;
 
 namespace ScratchPad
 {
@@ -10,6 +11,10 @@ namespace ScratchPad
     {
         static void Main(string[] args)
         {
+            // Testing the Builder Design Pattern
+            BuilderDesignPatternTest.Test();
+
         }
+
     }
 }
