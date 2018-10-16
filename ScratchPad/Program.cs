@@ -11,9 +11,14 @@ namespace ScratchPad
     {
         static void Main(string[] args)
         {
-            // Testing the Builder Design Pattern
+            // Testing the Builder Design Pattern.
             BuilderDesignPatternTest.Test();
 
+            // Testing DirectoryPractice code.
+            DirectoryPractice.DirectoryPracticeTest.PrintDirectoryContent();
+
+
+            Console.ReadKey();
         }
 
     }

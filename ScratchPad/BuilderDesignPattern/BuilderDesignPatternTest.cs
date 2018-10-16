@@ -16,7 +16,7 @@ namespace ScratchPad.BuilderDesignPattern
             Robot robot = engineer.GetRobot();
 
             Console.WriteLine("[Robot, Head = {0}, Weight = {1}Kg ", robot.Head, robot.Weight);
-            Console.ReadKey();
+            
         }
     }
 }
