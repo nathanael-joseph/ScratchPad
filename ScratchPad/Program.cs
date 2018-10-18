@@ -17,9 +17,8 @@ namespace ScratchPad
             // Testing DirectoryPractice code.
             DirectoryPractice.DirectoryPracticeTest.PrintDirectoryContent();
 
-
             Console.ReadKey();
         }
-
     }
+
 }
